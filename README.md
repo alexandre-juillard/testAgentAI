@@ -24,8 +24,13 @@ discord.js / openai / node-cron / axios / dotenv / rss-parser
 ### Leurs utilités
 
 discord.js : bot Discord
+
 openai : IA
+
 node-cron : tâches planifiées
+
 axios :	appels API
+
 dotenv : gestion clés
+
 rss-parser : lire flux news
